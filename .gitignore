@@ -277,3 +277,5 @@ src/frontend/temp
 
 .dspy_cache/
 *.db
+temp_auto_push.bat
+temp_interactive_push.bat
